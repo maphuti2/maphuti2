@@ -18,7 +18,7 @@ I'm an up-coming Software Developer. Looking for that 1 opportunity to make our 
 
 - <a href="https://maphuti2.github.io/Library/">Library</a>
 - <a href="https://maphuti2.github.io/Admin-Dashboard/">Admin Dashboard</a>
-- <a href="">Etch-a-Sketch</a>
+- <a href="https://maphuti2.github.io/Etch-A-Sketch/">Etch-a-Sketch</a>
 
 ## EDUCATION
 
