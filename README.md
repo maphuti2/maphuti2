@@ -1,16 +1,36 @@
-## Hi there 👋
+# Thapelo Maphuti Rebombo
 
-<!--
-**maphuti2/maphuti2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an up-coming Software Developer. Looking for that 1 opportunity to make our industry more great and be the number 1 coolest industry. I love tech hope it does love me back 😄
 
-Here are some ideas to get you started:
+## SKILLS
+- Technical Skills
+  - HTML
+  - CSS
+  - Javascript
+  - Python
+  - Git
+- Soft Skills
+  - Time Management
+  - Attention to details
+  - Excellent Communication and Teamwork Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## PROJECTS
+
+- <a href="">Library</a>
+- <a href="">Admin Dashboard</a>
+- <a href="">Etch-a-Sketch</a>
+
+## EDUCATION
+
+### TERTIARY EDUCATION
+
+- **Institution:** Tshwane University of Technology
+- **Qualification:** Diploma in Information Technology (Software Development)
+- **Year Obtained:** 2022
+
+### SECONDARY EDUCATION
+
+- **Name of School:** Makgoka High School
+- **Grade Passed:** 12
+- **Subjects:** English, Sepedi, Mathematics, Life Science, Physical Science,   Geography, Life Orientation
+- **Year Obtained:** 2017
